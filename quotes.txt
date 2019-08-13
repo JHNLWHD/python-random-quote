@@ -12,3 +12,9 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+If you can, I can
+Time is Gold
+Appended line 1
+Appended line 2
+Appended line 1
+Appended line 2
